@@ -14,14 +14,16 @@ AI nutrition app for iOS, live on the App Store. Take a photo of a meal and get 
 
 - **Photo to macros:** meal analysis from a single photo with GPT-4 Vision.
 - **Shipped fast:** from first commit to App Store release in 2 weeks.
-- **Monetized:** subscriptions with RevenueCat and Multicaixa Express.
+- **Monetized:** tiered subscriptions with RevenueCat and Multicaixa Express.
 - **Traction:** 600+ downloads and 1,000+ USD revenue in the first month, with no paid ads.
 
-## Screenshots
+## Mobile
 
-| Desktop | Mobile |
-|---|---|
-| <img src="screenshots/desktop.png" width="520"> | <img src="screenshots/mobile.png" width="200"> |
+<img src="screenshots/mobile.png" alt="LitCal mobile screens" width="100%">
+
+## Desktop
+
+<img src="screenshots/desktop.png" alt="LitCal desktop" width="100%">
 
 ## Stack
 
@@ -37,4 +39,8 @@ The source code is private because it belongs to the client. I am happy to walk 
 
 ---
 
-Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · erickrodrigues781@gmail.com
+<div align="center">
+
+Built by **[Erick Rodrigues](https://github.com/Erickrodrigues05)**, Full-Stack Developer · [erickrodrigues781@gmail.com](mailto:erickrodrigues781@gmail.com)
+
+</div>
